@@ -16,7 +16,7 @@ in Recommendations with Adversarial Training" paper, for which I have written mo
 
 Feel free to browse through all my other repositories, and see, if anything sparks your interests! 😆
 
-I am happy to connect on LinkedIn! 🤗
+I am happy to connect on [LinkedIn](https://linkedin.com/in/christian-ganhoer/)! 🤗
 
 <!--
 **Tigxy/tigxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
