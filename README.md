@@ -11,7 +11,7 @@ in Recommendations with Adversarial Training" paper, for which I have written mo
 
 #### Personal projects / tools 🧰
 - [WinShortcut](https://github.com/Tigxy/WinShortcut), my favorite developer tool to define shortcuts on Windows. If you are also working on Windows, be sure to check it out!
-- [PyCalc](https://github.com/Tigxy/PyCalc), a small little side-project of mine, which taught me how to properly (and safely 😉) evaluate equations specified as strings.
+- [PyCalc](https://github.com/Tigxy/PyCalc), a little side-project, which taught me how to properly (and safely 😉) evaluate equations specified as strings.
 - [Pomodoro](https://github.com/Tigxy/Pomodoro), following the famous Pomodoro technique for studying. Useful for any student 😄.
 
 Feel free to browse through all my other repositories, and see, if anything sparks your interests! 😆
