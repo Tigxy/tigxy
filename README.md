@@ -8,7 +8,7 @@ Here are some of my repos and projects that I am particularly proud of! ✨
 - [Adv-MultVAE](https://github.com/CPJKU/adv-multvae) accompanies our SIGIR'22 "Unlearning Protected User Attributes
 in Recommendations with Adversarial Training" paper, for which I have written most of the code.
 - [Recommender Metrics](https://github.com/Tigxy/recommender-metrics) implements all recommender metrics that we use in our paper above to quantify our results.
-- [SiBrar - Single-Branch Recommender](https://github.com/Tigxy/SiBraR---Single-Branch-Recommender) accompanies our RecSys'24 paper "A Multi-Modal Single-Branch Embedding Network for Recommendation in Cold-Start and Missing Modality Scenarios".
+- [SiBrar - Single-Branch Recommender](https://github.com/Tigxy/SiBraR---Single-Branch-Recommender) accompanies our RecSys'24 paper "A Multimodal Single-Branch Embedding Network for Recommendation in Cold-Start and Missing Modality Scenarios".
 
 #### Personal projects / tools 🧰
 - [WinShortcut](https://github.com/Tigxy/WinShortcut), my favorite developer tool to define shortcuts on Windows. If you are also working on Windows, be sure to check it out!
