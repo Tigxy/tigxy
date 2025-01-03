@@ -14,6 +14,7 @@ in Recommendations with Adversarial Training", for which I have written most of 
 - [WinShortcut](https://github.com/Tigxy/WinShortcut), my favorite developer tool to define shortcuts on Windows. If you are also working on Windows, be sure to check it out!
 - [PyCalc](https://github.com/Tigxy/PyCalc), a little side-project, which taught me how to properly (and safely 😉) evaluate equations specified as strings.
 - [Pomodoro](https://github.com/Tigxy/Pomodoro), following the famous Pomodoro technique for studying. Useful for any student 😄.
+- [PP Time Tracker](https://github.com/Tigxy/PPTimeTracker) tracks how long the slide slow of a PowerPoint presentation takes.
 
 Feel free to browse through all my other repositories, and see, if anything sparks your interests! 😆
 
