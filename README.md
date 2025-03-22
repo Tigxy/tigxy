@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Chris, an AI Master's student from Austria, who loves to code and experiment!
+I am Chris and I love to code and experiment with lots of different things.
 
 Here are some of my repos and projects that I am particularly proud of! ✨
 
